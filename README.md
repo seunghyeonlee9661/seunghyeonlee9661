@@ -1,7 +1,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=200&section=header&text=Welcome!&fontSize=70&fontColor=FFFFFF&fontAlign=38&fontAlignY=40&descAlign=75&descAlignY=45&desc=I%20Hope%20You%20have%20a%20Great%20Day%20👊"/>
-<hr>
-
 
 ### <p align="center">만나서 반갑습니다!👋</p>
 ###### <p align="center"></p>
@@ -26,8 +24,11 @@
 
 ### <p align="center">State🎉</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeSeungHyun9661"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seunghyeonlee9661"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonlee9661&layout=compact"/>
 </p>
+
+
 
 ### <p align="center">Blog📑</p>
 
