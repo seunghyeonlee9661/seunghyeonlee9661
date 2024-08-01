@@ -1,13 +1,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=60&fontColor=FFFFFF&fontAlign=38&fontAlignY=40&text=Nice%20to%20Meet%20you!%20👋"/>
 
-#### <p align="center"> I'm a passionate junior developer exploring the world of coding.<br> I love diving into Web Backend and designing algorithms. 🧑‍💻</p>
+#### <p align="center"> I'm a passionate junior developer exploring the world of coding.<br> I love diving into Web Backend and designing algorithms.🧑‍💻</p>
 ###### <p align="center"></p>
-
 
 ### <p align="center">Skills💻</p>
 <p align="center">
-  <strong>Skills💻</strong>
   <p align="center">
    <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,39 +25,68 @@
  </p>
 </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seunghyeonlee9661&show_icons=true"/>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonlee9661&layout=donut"/>
-  </p>
-<!--
+### <p align="center">Blogs📑</p>
+<p align="center">
+  <a href="https://velog.io/"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 ### <p align="center">Projects👷</p>
 
+<table align="center" cellpadding="10" cellspacing="0" width="100%">
+  <thead>
+    <tr>
+      <th style="width: 20%; border: none;">Title</th>
+      <th style="width: 20%; border: none;">Languages</th>
+      <th style="width: 30%; border: none;">Link</th>
+      <th style="width: 20%; border: none;">Date</th>
+      <th style="width: 10%; border: none;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: none;">Spring Basic</td>
+      <td style="border: none;">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/FTP-006CFA?style=flat&logo=ftp&logoColor=white" alt="FTP" />
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/seunghyeonlee9661/SpringBasic-LV1-LV3">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td style="border: none;">06/2024-07/2024</td>
+      <td style="border: none;">This project is a record and organization of my initial learning experience with Spring.</td>
+    </tr>
+  </tbody>
+</table>
 
-### <p align="center">Contect📞</p>
 
+
+
+
+### <p align="center">Contact📞</p>
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+1-234-567-8901"><img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ### <p align="center">State🎉</p>
- -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=seunghyeonlee9661&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonlee9661&layout=donut" alt="Top Languages" style="max-width: 100%; height: auto;"/>
+    </td>
+  </tr>
+</table>
 
 
-### <p align="center">Blog📑</p>
-
-
-  
 
 
 
-
-<!--**LeeSeungHyun9661/LeeSeungHyun9661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
