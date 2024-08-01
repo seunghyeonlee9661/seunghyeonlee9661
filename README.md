@@ -37,11 +37,11 @@
 <table align="center" cellpadding="10" cellspacing="0" width="100%">
   <thead>
     <tr>
-      <th style="width: 20%; border: none;">Title</th>
-      <th style="width: 20%; border: none;">Skill</th>
-      <th style="width: 30%; border: none;">Link</th>
-      <th style="width: 20%; border: none;">Date</th>
-      <th style="width: 10%; border: none;">Description</th>
+      <th style="border: none;">Title</th>
+      <th style="border: none;">Skill</th>
+      <th style="border: none;">Link</th>
+      <th style="border: none;">Date</th>
+      <th style="border: none;">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -56,7 +56,7 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
-      <td style="border: none;">06/2024-07/2024</td>
+      <td style="border: none;">06/2024</td>
       <td style="border: none;">This project is a record and organization of my initial learning experience with Spring.</td>
     </tr>
   </tbody>
