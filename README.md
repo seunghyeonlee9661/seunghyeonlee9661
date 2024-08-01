@@ -68,9 +68,9 @@
 
 ### <p align="center">Contact📞</p>
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+1-234-567-8901"><img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dltmdgus9661@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+82-010-7335-1663"><img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="https://www.instagram.com/lee.s.h_i"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### <p align="center">State🎉</p>
