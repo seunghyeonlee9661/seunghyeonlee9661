@@ -1,27 +1,17 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=38&fontAlignY=40&descAlign=75&descAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=60&fontColor=FFFFFF&fontAlign=38&fontAlignY=40&text=Nice%20to%20Meet%20you!%20👋"/>
 
-### <p align="center">I'm Lee, Nice to Meet you! 👋</p>
 #### <p align="center"> I'm a passionate junior developer exploring the world of coding.<br> I love diving into Web Backend and designing algorithms. 🧑‍💻</p>
 ###### <p align="center"></p>
 
 
 ### <p align="center">Skills💻</p>
-<div align=center>
-  <p align="center">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  </p>  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seunghyeonlee9661&show_icons=true"/>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonlee9661&layout=donut"/>
-  </p>
-</div>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 <!--
 ### <p align="center">Projects👷</p>
