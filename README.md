@@ -38,7 +38,7 @@
   <thead>
     <tr>
       <th style="width: 20%; border: none;">Title</th>
-      <th style="width: 20%; border: none;">Languages</th>
+      <th style="width: 20%; border: none;">Skill</th>
       <th style="width: 30%; border: none;">Link</th>
       <th style="width: 20%; border: none;">Date</th>
       <th style="width: 10%; border: none;">Description</th>
@@ -50,7 +50,6 @@
       <td style="border: none;">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/FTP-006CFA?style=flat&logo=ftp&logoColor=white" alt="FTP" />
       </td>
       <td style="border: none;">
         <a href="https://github.com/seunghyeonlee9661/SpringBasic-LV1-LV3">
