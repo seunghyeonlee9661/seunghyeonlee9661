@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=38&fontAlignY=40&descAlign=75&descAlignY=45"/>
 
 ### <p align="center">I'm Lee, Nice to Meet you! 👋</p>
-#### <p align="center"> I'm a passionate junior developer exploring the world of coding.<br> I love diving into Web Backend and Solving Puzzles. 🧑‍💻</p>
+#### <p align="center"> I'm a passionate junior developer exploring the world of coding.<br> I love diving into Web Backend and designing algorithms. 🧑‍💻</p>
 ###### <p align="center"></p>
 
 
