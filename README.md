@@ -47,7 +47,6 @@
     <tr>
       <td style="border: none;">Spring Basic</td>
       <td style="border: none;">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
       </td>
       <td style="border: none;">
@@ -57,6 +56,23 @@
       </td>
       <td style="border: none;">06/2024</td>
       <td style="border: none;">This project is a record and organization of my initial learning experience with Spring.</td>
+    </tr>
+    <tr>
+      <td style="border: none;">WeatherWear</td>
+      <td style="border: none;">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/seunghyeonlee9661/WeatherWear">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://weatherwearclothing.com/">
+          <img src="https://github.com/user-attachments/assets/c8236227-91a2-4ec2-b5c0-b480dfecd20e" alt="Logo" style="height: 20px; vertical-align: middle;" />
+        </a>
+      </td>
+        <td style="border: none;">07/2024</td>
+        <td style="border: none;">This team project focuses on building a web service that recommends OOTD (Outfit of the Day) based on weather data.</td>
     </tr>
   </tbody>
 </table>
