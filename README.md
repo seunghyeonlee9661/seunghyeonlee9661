@@ -45,17 +45,20 @@
   </thead>
   <tbody>
     <tr>
-      <td style="border: none;">Spring Basic</td>
+      <td style="border: none;">Adjustment Service</td>
       <td style="border: none;">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring%20Cloud-232F3E?style=flat&logo=spring&logoColor=white" alt="Spring Cloud" />
       </td>
       <td style="border: none;">
-        <a href="https://github.com/seunghyeonlee9661/SpringBasic-LV1-LV3">
+        <a href="https://github.com/seunghyeonlee9661/AdjustmentService">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
-      <td style="border: none;">06/2024</td>
-      <td style="border: none;">This project is a record and organization of my initial learning experience with Spring.</td>
+      <td style="border: none;">07/2024</td>
+      <td style="border: none;">
+        This project focuses on building a system for video upload and revenue calculation based on view counts, with the goal of implementing efficient data processing using Spring Cloud.
+      </td>
     </tr>
     <tr>
       <td style="border: none;">WeatherWear</td>
@@ -73,6 +76,19 @@
       </td>
         <td style="border: none;">07/2024</td>
         <td style="border: none;">This team project focuses on building a web service that recommends OOTD (Outfit of the Day) based on weather data.</td>
+    </tr>
+    <tr>
+      <td style="border: none;">Spring Basic</td>
+      <td style="border: none;">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/seunghyeonlee9661/SpringBasic-LV1-LV3">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td style="border: none;">06/2024</td>
+      <td style="border: none;">This project is a record and organization of my initial learning experience with Spring.</td>
     </tr>
   </tbody>
 </table>
