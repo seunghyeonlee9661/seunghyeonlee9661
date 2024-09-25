@@ -54,7 +54,7 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
-      <td style="border: none;">07/2024</td>
+      <td style="border: none;">08/2024</td>
       <td style="border: none;">
         This project focuses on building a system for video upload and revenue calculation based on view counts, with the goal of implementing efficient data processing using Spring Cloud.
       </td>
